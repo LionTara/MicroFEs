@@ -1,6 +1,6 @@
 # Finance Management App
 
-Welcome to our Finance Management Application, a comprehensive solution designed to empower users in efficiently managing their finances. This application utilizes micro front end architecture, providing a seamless and modular experience for users.
+Welcome to my Finance Management Application, a comprehensive solution designed to empower users in efficiently managing their finances. This application utilizes micro front end architecture, providing a seamless and modular experience for users.
 
 ## Table of Contents
 1. [Features](#features)
